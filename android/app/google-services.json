@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243639695490",
+    "project_id": "freshfood-a990d",
+    "storage_bucket": "freshfood-a990d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243639695490:android:6fab4e3daa555a8a459c9b",
+        "android_client_info": {
+          "package_name": "com.example.freshfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr8O14bGW9Wc3N_TalErHm_KeWEMwCO0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
